@@ -1,6 +1,6 @@
-# dicee
+# Dadoo
 
-A new Flutter project.
+Um projeto flutter onde é exibido dois dados na tela e eles são jogados randomicamente a cada toque em cada dado da tela.
 
 ## Getting Started
 
